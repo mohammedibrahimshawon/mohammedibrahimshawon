@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammedibrahimshawon
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning CSE
+- 🌱 I’m CSE Graduate
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me 
 
