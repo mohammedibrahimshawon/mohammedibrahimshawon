@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mohammedibrahimshawon
-- 👀 I’m interested in tech
-- 🌱 I’m CSE Graduate
-- 💞️ I’m looking to collaborate on IT
-- 📫 How to reach me 
+https://github-readme-stats.vercel.app/api?username=mohammedibrahimshawon&theme=blueberry&show_icons=true&hide_border=true&count_private=true
 
 <!---
 mohammedibrahimshawon/mohammedibrahimshawon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
